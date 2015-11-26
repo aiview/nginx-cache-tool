@@ -1,0 +1,6 @@
+[submodule "nginx-cache-inspector"]
+	path = nginx-cache-inspector
+	url = https://github.com/alexzhangs/nginx-cache-inspector
+[submodule "nginx-cache-purge"]
+	path = nginx-cache-purge
+	url = https://github.com/alexzhangs/nginx-cache-purge
